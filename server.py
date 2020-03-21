@@ -1,3 +1,4 @@
+# Psuedo code implementation
 result = application.listen_on('GET product detail on product with id')
 
 print(result.id)   # -> 1
